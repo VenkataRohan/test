@@ -1,1 +1,2 @@
-![image](https://github.com/user-attachments/assets/3e2dc7ee-bdee-4231-8c23-1aa55f1f7912)
+Architecture Diagram
+<img src="https://github.com/user-attachments/assets/af46f766-ed7e-4e76-a786-bf5ee7ccab87" alt="Architecture Diagram" width="500"/>
